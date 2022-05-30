@@ -33,7 +33,7 @@
 [<img src=https://user-images.githubusercontent.com/3532879/171006155-afab34ad-0c45-464a-a9fb-86a02cc707db.svg alt='linkedin' height='40'>](https://www.linkedin.com/in/tommy-albinsson/)
 
 
-
+[<img src=https://user-images.githubusercontent.com/3532879/171018276-15dc164b-6a36-40fa-9d4c-896bec5179de.svg alt='linkedin' height='40'>](https://stackoverflow.com/users/noshitsherlock/)
 
 
 
@@ -79,5 +79,8 @@ Here are some ideas to get you started:
 Logo: ![Logotype-dark](https://user-images.githubusercontent.com/3532879/171005674-8c6662f4-cfb0-4db4-b661-24665943476d.svg)
 
 Linkedin: ![linkedin](https://user-images.githubusercontent.com/3532879/171006155-afab34ad-0c45-464a-a9fb-86a02cc707db.svg)
+
+Stackoverflow: ![stackoverflow](https://user-images.githubusercontent.com/3532879/171018276-15dc164b-6a36-40fa-9d4c-896bec5179de.svg)
+
 
 -->
