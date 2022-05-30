@@ -11,13 +11,6 @@
 📫 You can reach me at tommy.albinsson@1337.tech
 
 
----
-
-
-
----
-
-
 
   
   
