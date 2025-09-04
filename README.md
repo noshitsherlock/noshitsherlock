@@ -1,14 +1,13 @@
 
 ### Tommy Albinsson
 
-![Logotype-dark](https://user-images.githubusercontent.com/3532879/171005674-8c6662f4-cfb0-4db4-b661-24665943476d.svg)
 
 
 
 
 
 
-📫 You can reach me at tommy.albinsson@1337.tech
+📫 You can reach me at tommy.albinsson@forefront.se
 
 
 
