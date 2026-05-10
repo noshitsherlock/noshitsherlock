@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Tommy%20Albinsson&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=noshitsherlock&descSize=22&descColor=06B6D4&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=640&lines=Engineering+Leader+%26+AI+Strategist;Guiding+consultants+in+an+AI-driven+world;Fullstack+roots%2C+leadership+focus;Based+in+Sweden+%F0%9F%87%B8%F0%9F%87%AA+%7C+13%7C37" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=640&lines=Engineering+Leader+%26+AI+Strategist;Guiding+consultants+in+an+AI-driven+world;Fullstack+roots%2C+leadership+focus;Based+in+Sweden+%F0%9F%87%B8%F0%9F%87%AA" alt="Typing SVG" />
 
 </div>
 
