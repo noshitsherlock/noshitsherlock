@@ -16,8 +16,17 @@ I help consultants and organizations navigate and thrive in a world reshaped by 
 - 🤖 Leading engineers in an AI-first era
 - 🧠 Obsessed with how AI changes the way we build & collaborate
 - 🏗️ Fullstack background: web, mobile, APIs, CMS
+- 📺 Building [CouchTime](https://couchtime.app) — a TV & movie companion app for iOS
 - 🎮 Occasional Quake enthusiast (`io-quake-3`)
 - 💬 Reach me: [tommy.albinsson@gmail.com](mailto:tommy.albinsson@gmail.com)
+
+---
+
+### Projects
+
+**[CouchTime](https://couchtime.app)** — *iOS app · passion project*
+
+A TV & movie companion app for tracking your watching progress, discovering new content, and never missing an episode. Built with Expo, TypeScript, React Native, and Supabase.
 
 ---
 
@@ -68,7 +77,8 @@ I help consultants and organizations navigate and thrive in a world reshaped by 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tommy_Albinsson-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommy-albinsson/)
-[![Email](https://img.shields.io/badge/Email-gmail-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tommy.albinsson@gmail.com)
+[![CouchTime](https://img.shields.io/badge/CouchTime-couchtime.app-06B6D4?style=for-the-badge&logo=apple&logoColor=white)](https://couchtime.app)
+[![Email](https://img.shields.io/badge/Email-gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tommy.albinsson@gmail.com)
 
 </div>
 
