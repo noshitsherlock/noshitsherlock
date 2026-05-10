@@ -49,14 +49,15 @@ I help consultants and organizations navigate and thrive in a world reshaped by 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=noshitsherlock&show_icons=true&theme=tokyonight&border_color=7C3AED" />
-<img height="165" src="https://streak-stats.demolab.com/?user=noshitsherlock&background=1a1b27&ring=7C3AED&fire=06B6D4&currStreakLabel=8B5CF6&border=7C3AED&sideLabels=8B5CF6&dates=a9b1d6&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-profile-trophy.vercel.app/?username=noshitsherlock&theme=tokyonight&no-frame=false&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshitsherlock&layout=compact&theme=tokyonight&border_color=7C3AED&langs_count=6" />
+<img src="https://streak-stats.demolab.com/?user=noshitsherlock&background=1a1b27&ring=7C3AED&fire=06B6D4&currStreakLabel=8B5CF6&border=7C3AED&sideLabels=8B5CF6&dates=a9b1d6&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
