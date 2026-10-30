@@ -58,7 +58,7 @@ A TV & movie companion app for tracking your watching progress, discovering new 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=noshitsherlock&theme=tokyonight&no-frame=false&no-bg=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noshitsherlock&theme=tokyonight" />
 
 </div>
 
